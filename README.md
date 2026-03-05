@@ -7,7 +7,7 @@
 <p align="center">
   <a href="mailto:Ramiz.Hussain030@Gmail.com"><img src="https://img.shields.io/badge/Email-0A0F1F?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/ramiz-hussain/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://ramizh.vercel.app/"><img src="https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white)" /></a>
+  <a href="https://ramizh.vercel.app/"><img src="https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white" /></a>
 </p>
 
 ## About Me
