@@ -14,9 +14,3 @@
 I am a third-year Computing Science major with a Mathematics minor at the University of Alberta, focused on building practical cybersecurity skills through CTFs, hands-on projects, and real-world technical experience.
 
 <a href="https://ramizh.vercel.app/">Personal Website</a>
-
-## Projects
-
-- **PicoCTF Write-Ups**  
-  Detailed write-ups for CTF challenges using tools like Wireshark, Hashcat, and Python.  
-  Link: [PicoCTF_Write-Ups](https://github.com/RamizHHH/PicoCTF_Write-Ups)
