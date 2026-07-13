@@ -11,6 +11,6 @@
 
 ## About Me
 
-I am a third-year Computing Science major with a Mathematics minor at the University of Alberta, focused on building practical cybersecurity skills through CTFs, hands-on projects, and real-world technical experience.
+I am a third-year Computing Science major with a Mathematics minor at the University of Alberta, focused on building practical cybersecurity skills through CTFs, hands-on projects, and real-world technical experience. I also have an interest in computer architecture and compiler design, I'm interested in how we can improve and optimize architecture designs and code compilers.
 
 <a href="https://ramizh.vercel.app/">Personal Website</a>
